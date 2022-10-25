@@ -1,3 +1,8 @@
+# Alphazero-1
+
+# Nama Anggota
+`Dina Amelia Alzahra` | `Dwinda Putri Nuria` | `Sabar Rendy Samuel Silalahi` | `Yanuar Ginting`
+
 ===================
 [Packages List]
 ===================
